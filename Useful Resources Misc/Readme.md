@@ -1,9 +1,76 @@
 https://chuka231.blogspot.com/
 https://algomap.io/
 
-Key patterns that are important for coding interviews
+Patterns to follow:
+https://blog.algomaster.io/p/15-leetcode-patterns
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 ========================================================
+
+Coding Patterns Topic Wise ( Eagel's 🦅 eye)
+Section-A
+ARRAYS & STRINGS: ( Below are the algorithm and techniques )
+Prefix Sum [ 560, 525] [303, 304]
+Kadane’s Algorithm [53, 152]
+Sliding Window
+Two Pointer. -> Reduces time complexity from O(n^2) to O(n)
+Overlapping / Merge Intervals
+Modified Binary Search [33,153]
+Cyclic Sort [41]
+Recusrion, Backtracking
+Greedy Algorithm [ 55, 45, 53 ] [ Dijkstra - 743, 787]
+Dynamic Programming [ 53, 152, 91 ..]
+
+BACKTRACKING:
+Subset
+Combinations
+Permutation
+
+DYNAMIC PROGRAMMING:
+0/1 Knapsack
+Unbounded Knapsack
+Fibonacci Numbers [ 70, 746, 198, 91 ]
+Kadane's Algorithm [ 53, 152, 42, 303 ]
+Longest Increasing Subsequence (LIS)
+Longest Common Subsequence (LCS) ---> 2D DP
+DP on Matrix/Grid [62,63,64] ---> 2D DP
+Matrix Chain Multiplication
+
+STACK:
+Monotonic Stack [ 739, 496, 84] Find next greater/smaller. Reduces time complexity from O(N^2) to O(N)
+
+LINKED LIST:
+Fast and Slow Pointer ( Find mid-point. Cyclic Detection) - 141, 287
+LinkedList In-place Reversal (206, 92, 24, 25) - Using prev, head, tail pointers.
+( Reverse a linked-list without using extra memory)
+
+HEAP:
+Top K Elements
+Two Heaps - Median of Stream
+K-way Merge (21, 23)
+
+TREES:
+Tree DFS Traversal (InOrder, PreOrder, PostOrder)
+Tree BFS ( Iterative using Queue)
+Tries
+N-ary (Generic Tree)
+QuadTrees
+Segment Trees
+
+GRAPHS: Summary from Ashish's Article
+Matrix DFS
+Matrix BFS - Specially for shortest path problems.
+Graph DFS ( Adjacency List / Adjacency Matrix, Edges/Vertex)
+Graph BFS ( Adjacency List. and all - Shortest Distance )
+Union Find ( Disjoint Sets) - Cyclic detection for unidirectional graphs, Find Disjoint-Sets
+Dijkstra Algorithm - Shortest Path for Weighted graphs
+Topological Sort - Cyclic detection for Directed Graphs (DAG). Ordering
+Kruskal Algorithm
+Prims Algorithm
+
+========================================================
+
+Key patterns that are important for coding interviews
 
 Links to each this article that has links to each & every problem
 https://leetcode.com/discuss/interview-question/5886397/DSA-Patterns-you-need-to-know-
