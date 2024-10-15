@@ -321,23 +321,23 @@ Partition Equal Subset Sum
 Ones and Zeroes
 Last Stone Weight ii
 Infinite Supply (DP)
-Description: Similar to the 0/1 knapsack, but items can be chosen multiple times.
 
+Description: Similar to the 0/1 knapsack, but items can be chosen multiple times.
 Coin Change
 Coin Change II
 Perfect Squares
 Minimum Cost For Tickets
 Longest Increasing subsequence
-Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order
 
+Description: It involves finding the longest subsequence of a given sequence where the elements are in ascending order
 Longest Increasing Subsequence
 Largest Divisible Subset
 Maximum Length of Pair Chain
 Number of LIS
 Longest String Chain
 DP on Grids
-Description: Dynamic Programming on matrices involves solving problems that can be broken down into smaller overlapping subproblems within a matrix.
 
+Description: Dynamic Programming on matrices involves solving problems that can be broken down into smaller overlapping subproblems within a matrix.
 Unique Paths ii
 Minimum Path Sum
 Triangle
@@ -346,8 +346,8 @@ Maximal Square
 Cherry Pickup
 Dungeon Game: Dungeon Game
 DP on Strings
-Description: It Involves 2 strings, whenever you are considering two substrings/subsequence from given two strings, concentrate on what happens when the last characters of the two substrings are same, i.e, matching.
 
+Description: It Involves 2 strings, whenever you are considering two substrings/subsequence from given two strings, concentrate on what happens when the last characters of the two substrings are same, i.e, matching.
 Longest Common Subsequence
 Longest Palindromic Subsequence
 Palindromic Substrings
@@ -358,16 +358,16 @@ Distinct Subsequences
 Shortest Common Supersequence
 Wildcard Matching
 DP on Stocks
-Description: It focuses on maximizing profit from buying and selling stocks over time while considering constraints.
 
+Description: It focuses on maximizing profit from buying and selling stocks over time while considering constraints.
 Buy and Sell Stocks ii
 Buy and Sell Stocks iii
 Buy and Sell Stocks iv
 Buy and Sell Stocks with Cooldown
 Buy and Sell Stocks with Transaction fee
 Partition DP (MCM)
-Description: It Involves a sequence that needs to be divided into partitions in an optimal way. The goal is often to minimize or maximize a cost function, such as computation time, multiplications, or some other metric, by exploring all possible partitions and combining results from subproblems.
 
+Description: It Involves a sequence that needs to be divided into partitions in an optimal way. The goal is often to minimize or maximize a cost function, such as computation time, multiplications, or some other metric, by exploring all possible partitions and combining results from subproblems.
 Partition array for Maximum Sum
 Burst Balloons
 Minimum Cost to Cut a Stick
@@ -385,15 +385,15 @@ Strange Printer ii
 Sequence Reconstruction
 Alien Dictionary
 Union Find (Disjoint Set)
-Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 
+Description: Union-Find (or Disjoint Set) is used to solve problems involving connectivity or grouping, often in graphs.
 Number of Operations to Make Network Connected
 Redundant Connection
 Accounts Merge
 Satisfiability of Equality Equations
 Graph Algorithms
-Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
 
+Description: Advanced graph algorithms are used to solve complex problems involving shortest paths, minimum spanning trees, and graph cycles.
 Kruskal's Algorithm: Minimum Cost to connect all Points
 Dijkstra's Algorithm: Cheapest Flights Within K Stops
 Floyd-Warshall: Find the City with Smallest Number of Neighbours at a Threshold Distance
@@ -489,3 +489,19 @@ https://leetcode.com/problems/sum-of-two-integers/solutions/84278/A-summary:-how
 
 All Types of Patterns for Bits Manipulations and How to use it:
 https://leetcode.com/discuss/interview-question/3695233/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it
+
+=========================================================================================
+
+GOLD💛
+Important and Useful links from all over the LeetCode
+
+https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode
+
+FAMOUS ALGOS 🪙
+
+https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
+
+Bit Manipulation Gold 🥇
+https://leetcode.com/problems/sum-of-two-integers/solutions/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/
+
+https://yatmanwong.medium.com/bit-manipulation-tricks-explained-c5017aff729d
